@@ -1,0 +1,20 @@
+.box-content .box_playing .info_name_songmv {
+    float: left;
+    padding-bottom: 5px;
+    margin: 0 0 328px 0;
+    height: 60px;
+}
+.box-content .box_playing .topbreadCrumb {
+    float: left;
+    padding: 3px 0px;
+    width: 840px;
+    color: #999999;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.box-content .box_playing .topbreadCrumb a {
+    color: #999999;
+    font-size: 11px;
+    line-height: 18px;
+}
